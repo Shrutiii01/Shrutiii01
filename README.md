@@ -59,8 +59,8 @@
 
 **Machine Learning & Data**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,numpy,pandas,matplotlib)](https://skillicons.dev)
-&nbsp;`NumPy` &nbsp;`Pandas` &nbsp;`Matplotlib` &nbsp;`MediaPipe`
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv)](https://skillicons.dev)
+
 
 **Frontend**
 
@@ -68,11 +68,11 @@
 
 **Backend & Database**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,streamlit,mongodb,postgresql,supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,supabase,firebase)](https://skillicons.dev)
 
 **Tools & Platforms**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,googlecolab,figma,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux)](https://skillicons.dev)
 
 ---
 
