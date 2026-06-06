@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=c084fc&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Hackathon+Winner+%F0%9F%8F%86;CGPA+9.80+%7C+B.Tech+CSE+%E2%80%9828+%F0%9F%8E%93;Problem+Solver+%7C+Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=c084fc&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Hackathon+Winner+%F0%9F%8F%86;CGPA+9.70+%7C+B.Tech+CSE+%E2%80%9828+%F0%9F%8E%93;Problem+Solver+%7C+Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -30,7 +30,7 @@
 
 ### 🙋‍♀️ About Me
 
-- 🎓 **B.Tech CSE @ GHRCE Nagpur** — CGPA **9.80/10** (2024–2028)
+- 🎓 **B.Tech CSE @ GHRCE Nagpur** — CGPA **9.70/10** (2024–2028)
 - 🏆 **1st Place** — Health-Hack Hackathon, VIT Bhopal 2025 (Top 10 / 230+ teams · ₹1,00,000 prize)
 - 🌟 **Outstanding Academic Performance Award** — CGPA 9.93/10 in first year
 - 🤖 **AI/ML Intern @ IBM SkillsBuild** — Models trained on 25,000+ record datasets
@@ -59,7 +59,7 @@
 
 **Machine Learning & Data**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,numpy,pandas,matplotlib)](https://skillicons.dev)
 &nbsp;`NumPy` &nbsp;`Pandas` &nbsp;`Matplotlib` &nbsp;`MediaPipe`
 
 **Frontend**
@@ -111,16 +111,6 @@
 
 </div>
 
----
-
-### 🌐 3D Contribution Calendar
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shrutiii01/Shrutiii01/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -134,6 +124,17 @@
 </div>
 
 ---
+
+---
+
+### 🌐 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shrutiii01/Shrutiii01/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
+</div>
+
+---
+
 
 ### 🤝 Connect with Me
 
