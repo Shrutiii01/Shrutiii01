@@ -33,9 +33,6 @@
 - 🎓 **B.Tech CSE @ GHRCE Nagpur** — CGPA **9.70/10** (2024–2028)
 - 🏆 **1st Place** — Health-Hack Hackathon, VIT Bhopal 2025 (Top 10 / 230+ teams · ₹1,00,000 prize)
 - 🌟 **Outstanding Academic Performance Award** — CGPA 9.93/10 in first year
-- 🤖 **AI/ML Intern @ IBM SkillsBuild** — Models trained on 25,000+ record datasets
-- 🛡️ **Cybersecurity Intern @ Vodafone Idea Foundation** — Built & deployed a real-time NIDS on Hugging Face
-- 💻 **Full-Stack Intern @ Infosys Springboard** — Led a team of 4, MERN stack, 100+ concurrent users
 - 📫 Reach me: **shrutinarsulwar@gmail.com**
 
 ---
@@ -43,8 +40,6 @@
 ### 🔧 Currently Working On
 
 ```text
-🤖  IBM SkillsBuild — AI/ML Internship       ██████████████░   [Active]   ML models · TensorFlow · Scikit-learn
-💻  Infosys Springboard — Full-Stack         ██████████████░   [Active]   React · Node · MongoDB · REST APIs
 🌐  ACM Student Chapter @ GHRCE             ████████░░░░░░░   [Active]   Website dev · Technical documentation
 🛠️   Open Source Contributions               ██████░░░░░░░░░   [Growing]  Building in public
 ```
@@ -84,18 +79,6 @@
 | 🏛️ **[CivicArch AI](https://github.com/Shrutiii01)** | Civic issue reporting platform with geolocation, image uploads, JWT auth, OTP verification | FastAPI · React · PostgreSQL |
 | 🛡️ **NIDS — Network Intrusion Detection** | ML-based system detecting DDoS & anomalous traffic, deployed live on Hugging Face Spaces | Python · Scikit-learn · Hugging Face |
 | 💼 **HireHelper** | Full-stack hiring platform — optimized React frontend, MERN backend handling 100+ concurrent requests | React · Node.js · MongoDB · Express |
-
----
-
-### 🏆 Highlights
-
-| | |
-|---|---|
-| 🥇 **Health-Hack Hackathon — 1st Place** | VIT Bhopal 2025 · Top 10 / 230+ teams · ₹1,00,000 prize · OSMF screening AI with 9% accuracy boost |
-| 🌟 **Outstanding Academic Performance** | CGPA 9.93/10 in first year of B.Tech CSE (2024–2025) |
-| 🤖 **IBM SkillsBuild AI/ML Internship** | 25,000+ record datasets · 8% reduction in prediction error via hyperparameter tuning |
-| 🛡️ **Vodafone Idea Foundation Internship** | NIDS deployed on Hugging Face · GenAI + cybersecurity workflows |
-| 💻 **Infosys Springboard Full-Stack Internship** | Team lead (4 devs) · 5 modules · 100% on-time delivery |
 
 ---
 
