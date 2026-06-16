@@ -110,26 +110,3 @@
 
 ---
 
-### 🌐 3D Contribution Calendar
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shrutiii01/Shrutiii01/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
-</div>
-
----
-
-
-### 🤝 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shrutinarsulwar)&nbsp;&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Shrutiii01)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutinarsulwar@gmail.com)&nbsp;&nbsp;
-[![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/shruti-narsulwar)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0221&height=120&section=footer"/>
-</div>
