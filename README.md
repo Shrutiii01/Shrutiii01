@@ -11,8 +11,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shrutiii01&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Shrutiii01?label=Followers&style=social" alt="GitHub Followers" />
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/shrutinarsulwar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
